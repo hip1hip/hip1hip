@@ -40,7 +40,7 @@
 </p>>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hip1hip&layout=compact&theme=algolia)
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=hip1hip&layout=compact&theme=algolia)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hip1hip&show_icons=true&theme=tokyonight)](https://github.com/hip1hip)
+[![GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=hip1hip&show_icons=true&theme=tokyonight)](https://github.com/hip1hip)
 
