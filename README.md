@@ -45,8 +45,3 @@
 [![GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=hip1hip&show_icons=true&theme=tokyonight)](https://github.com/hip1hip)
 
 
-## 프로젝트 목적 
-취업을 위한 프로젝트 
-
-## 학습 내용 
-파이썬 설정 및 git 학습 
